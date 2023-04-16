@@ -1,0 +1,1 @@
+{"_rootDirectory":"C:/CODE/Unity/Projects/TemplateProject/Assets","_alwaysSave":[],"_alwaysSaveFull":[]}

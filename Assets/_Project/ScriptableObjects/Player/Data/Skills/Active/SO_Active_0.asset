@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0adb9c337f78d242a2acfd34076dfc8, type: 3}
+  m_Name: SO_Active_0
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 21300000, guid: 93f3d1373ed5ff94fad2d370aaf88830, type: 3}
+  IsActiveSkill: 1
+  SkillName: Fireball
+  SkillType: 0
+  AnimationName: 
+  ParticleEffect: 6
+  SkillDataArray:
+  - Value: 0
+    Duration: 0
+    Cooldown: 0
+  - Value: 125
+    Duration: 4
+    Cooldown: 15

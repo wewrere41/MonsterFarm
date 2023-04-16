@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7541e06d09f57d843ba246c823444319, type: 3}
+  m_Name: SO_ItemData_Inventory
+  m_EditorClassIdentifier: 
+  ItemSprite: {fileID: 21300000, guid: 076e5467b48574784a83c093bfacc22a, type: 3}
+  ItemType: 4
+  ItemName: INVENTORY
+  DataArray:
+  - NextLevelGoldRequirement: 0
+    Value: 0
+  - NextLevelGoldRequirement: 100
+    Value: 2000
+  - NextLevelGoldRequirement: 300
+    Value: 5000
+  - NextLevelGoldRequirement: 400
+    Value: 10000
+  - NextLevelGoldRequirement: 500
+    Value: 15000
+  - NextLevelGoldRequirement: 600
+    Value: 20000

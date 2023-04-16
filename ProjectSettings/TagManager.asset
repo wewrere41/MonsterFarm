@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Player/Weapon
+  - Bullet
+  - Enemy
+  - Ground
+  - ShopArea
+  - Enemy/Weapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Dynamic/Player
+  - Dynamic/Enemy
+  - Static
+  - Trigger
+  - Dynamic/Weapon/Player
+  - Dynamic/Weapon/Enemy
+  - Dynamic/Skill
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0adb9c337f78d242a2acfd34076dfc8, type: 3}
+  m_Name: SO_Active_1
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 21300000, guid: cca070a377933664e951ead3417b9eff, type: 3}
+  IsActiveSkill: 1
+  SkillName: Judgement
+  SkillType: 1
+  AnimationName: ROTATE
+  ParticleEffect: 7
+  SkillDataArray:
+  - Value: 0
+    Duration: 0
+    Cooldown: 0
+  - Value: 0
+    Duration: 5
+    Cooldown: 5

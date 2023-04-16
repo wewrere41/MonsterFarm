@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5963077978d13442b97cd6b878c14c1, type: 3}
+  m_Name: GameSettingsInstaller
+  m_EditorClassIdentifier: 
+  Player:
+    PlayerData: {fileID: 11400000, guid: f41c53db351ea774fbd219685b7309de, type: 2}
+    ItemShop:
+      ShopItemUI: {fileID: 1964461481279454623, guid: 83dda3e738076f34a953cefcc95258d6, type: 3}
+  Misc:
+    ParticleSettings:
+      ParticleSystems:
+      - ParticleType: 0
+        ParticleSystem: {fileID: 0}
+  worldStatsSo: {fileID: 11400000, guid: 34897ff87be67614881e502ef13a848b, type: 2}
+  _poolObjects:
+    Enemy: {fileID: 3952088251012005726, guid: ad981b3a0ee0e5c4397c39c76dfb1fe2, type: 3}
+    Skull: {fileID: 4362712267980330363, guid: 9b5334d22025bff48828dade6050aed4, type: 3}
+    Gold: {fileID: 3644728939594778423, guid: 81a29a25ea807914fb7893fd3b3d8c70, type: 3}

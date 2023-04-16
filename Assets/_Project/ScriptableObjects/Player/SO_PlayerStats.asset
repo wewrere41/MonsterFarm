@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dae2cb2f5464195a90ba20d4af98ac3, type: 3}
+  m_Name: SO_PlayerStats
+  m_EditorClassIdentifier: 
+  AttackDamage: 25
+  Health: 100
+  AttackSpeed: 1.5
+  MovementSpeed: 8
+  Level: 1
+  TotalXp: 0
+  SkullCount: 0
+  GoldCount: 0
+  LastPosition: {x: 0, y: 0, z: 0}
+  Active_Skill0_Level: 0
+  Active_Skill1_Level: 0
+  Active_Skill2_Level: 0
+  Passive_DamageBonus_Level: 0
+  Passive_HealthBonus_Level: 0
+  Passive_AttackSpeed_Level: 0
+  Passive_MovementSpeed_Level: 0
+  Item_Weapon_Level: 1
+  Item_BodyArmor_Level: 0
+  Item_HeadArmor_Level: 0
+  Item_FootArmor_Level: 0
+  Item_Inventory_Level: 1
+  LoadFromJson: 1
+  LoadPosition: 1

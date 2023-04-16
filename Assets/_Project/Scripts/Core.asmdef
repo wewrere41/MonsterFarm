@@ -1,0 +1,28 @@
+{
+    "name": "Core",
+    "rootNamespace": "",
+    "references": [
+        "GUID:865b414a121ed594e91db2e09f65d38c",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:041029188fa88c54f9efffc039b6a1c9",
+        "GUID:bcc75752368a72b4aba4043ea13b2a1a",
+        "GUID:029c1c1b674aaae47a6841a0b89ad80e",
+        "GUID:a03b085857dbf4b47a38cdfdab1f061a",
+        "GUID:cb96c4fa5cec901418681204a5b812f2",
+        "GUID:d582166fa71103046b586904ef4b230e",
+        "GUID:652b82a7a534a47d9adc833a0971e4c7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "Google.JarResolver_v1.2.135.0.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

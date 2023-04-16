@@ -1,0 +1,22 @@
+{
+    "name": "Extenject-Async",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cb96c4fa5cec901418681204a5b812f2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.addressables",
+            "expression": "0.0.0",
+            "define": "EXTENJECT_INCLUDE_ADDRESSABLE_BINDINGS"
+        }
+    ],
+    "noEngineReferences": false
+}
